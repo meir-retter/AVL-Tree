@@ -1,0 +1,3 @@
+String
+"BonJour" "Hello" "Privet" "Shalom" "G'day" "Hi" "Hola" "Ni Hao"
+"Hi" "Hello" "BonJour" "Shalom" "Privet" "G'day" "Hola" "Ni Hao"
